@@ -11,6 +11,8 @@ Predict future grocery store sales.
 Improve inventory management.
 Reduce overstock and stock shortages.
 Support better business decision-making.
+
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -18,6 +20,7 @@ NumPy
 Scikit-learn
 Streamlit
 Joblib
+
 🤖 Machine Learning Model
 Model: Random Forest Regressor
 Target Variable: Sales
@@ -25,11 +28,14 @@ Target Variable: Sales
 
 📥 Input
 test.csv
+
+
 📤 Output
 submission.csv
 
 
 📂 Project Structure
+
 StoreSalesProject/
 │
 ├── app.py
