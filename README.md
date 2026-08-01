@@ -114,7 +114,6 @@ A screen recording demonstrating how to run and use the application is included 
 
 - Abdelrahman Nady  bdelrhmnhrb336@gmail.com
 
-- Mohamed Amr https://github.com/mohamed__amr2.
-
+- Mohamed Amr https://github.com/mohamed__amr2
 ---
 
