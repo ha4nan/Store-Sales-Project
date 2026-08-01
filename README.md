@@ -1,6 +1,5 @@
 # 🏪 Store Sales Prediction System	
 
-
 ## 📌 Project Overview
 
 
