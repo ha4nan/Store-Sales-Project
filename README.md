@@ -41,7 +41,7 @@ This project develops a **Machine Learning** model to predict future grocery sto
 ## 🤖 Machine Learning Model
 
 - **Model:** Random Forest Regressor
-- **Task:** Regression
+- **Task:** Time-Series Sales Forecasting (Regression)
 - **Target Variable:** Sales
 
 ---
