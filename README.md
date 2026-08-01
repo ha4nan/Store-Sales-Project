@@ -114,6 +114,3 @@ A screen recording demonstrating how to run and use the application is included 
 
 ---
 
-## 📄 License
-
-This project is for educational purposes.
