@@ -2,48 +2,57 @@
 
 ## 📌 Project Overview
 
-Accurate sales forecasting is essential for retail businesses to effectively manage inventory and meet customer demand. Poor predictions can result in overstock, product waste, or stock shortages that negatively impact revenue and customer satisfaction.
+Accurate sales forecasting is essential for retail businesses to effectively manage inventory and meet customer demand. Poor predictions can result in overstock, product waste, or stock shortages, negatively impacting revenue and customer satisfaction.
 
-This project develops a **Machine Learning** model to predict future grocery store sales based on historical sales data. The system includes a **Streamlit** web application that allows users to upload a **test.csv** file, generate sales predictions using a trained **Random Forest Regressor** model, and download the results as a **submission.csv** file.
+This project develops a **Machine Learning** model to predict future grocery store sales based on historical sales data. The system includes an interactive **Streamlit** web application that allows users to upload a `test.csv` file, generate sales predictions using a trained **Random Forest Regressor**, and download the results as a `submission.csv` file.
 
 ---
 
 ## 🎯 Project Objectives
 
-* Predict future grocery store sales.
-* Improve inventory management.
-* Reduce overstock and stock shortages.
-* Support better business decision-making.
+- Predict future grocery store sales.
+- Improve inventory management.
+- Reduce overstock and stock shortages.
+- Support better business decision-making.
+
+---
+
+## ✨ Features
+
+- Upload a `test.csv` file through a simple web interface.
+- Automatic data preprocessing.
+- Sales prediction using a trained Random Forest Regression model.
+- Download prediction results as `submission.csv`.
+- User-friendly Streamlit interface.
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Streamlit
-* Joblib
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Joblib
 
 ---
 
 ## 🤖 Machine Learning Model
 
-* **Model:** Random Forest Regressor
-* **Target Variable:** Sales
+- **Model:** Random Forest Regressor
+- **Task:** Regression
+- **Target Variable:** Sales
 
 ---
 
 ## 📥 Input
 
-* **test.csv**
-
----
+- `test.csv`
 
 ## 📤 Output
 
-* **submission.csv**
+- `submission.csv`
 
 ---
 
@@ -82,14 +91,14 @@ streamlit run app.py
 
 ## 🔄 Workflow
 
-1. Upload **test.csv**.
-2. The application preprocesses the data.
-3. The trained model generates sales predictions.
-4. Download the generated **submission.csv**.
+1. Upload the `test.csv` file.
+2. The application automatically preprocesses the uploaded data.
+3. The trained Random Forest model generates sales predictions.
+4. Download the generated `submission.csv` file.
 
 ---
 
-## 🎥 demo
+## 🎥 Demo
 
 A screen recording demonstrating how to run and use the application is included in this repository as **run.mp4**.
 
@@ -97,8 +106,14 @@ A screen recording demonstrating how to run and use the application is included 
 
 ## 👨‍💻 Development Team
 
-* Hager
-* Mohamed Ashraf
-* Hanan
-* Abdelrahman
-* Mohamed Amr
+- Hager
+- Mohamed Ashraf
+- Hanan
+- Abdelrahman
+- Mohamed Amr
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
