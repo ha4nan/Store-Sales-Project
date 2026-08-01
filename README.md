@@ -1,11 +1,10 @@
-# 🏪 Store Sales Prediction System	
+# 🏪 Store Sales Prediction System
 
 ## 📌 Project Overview
 
-
 Accurate sales forecasting is essential for retail businesses to effectively manage inventory and meet customer demand. Poor predictions can result in overstock, product waste, or stock shortages that negatively impact revenue and customer satisfaction.
 
-This project develops a Machine Learning model to predict future grocery store sales based on historical sales data. The system includes a Streamlit web application that allows users to upload a **test.csv** file, generate sales predictions using a trained **Random Forest Regressor** model, and download the results as a **submission.csv** file.
+This project develops a **Machine Learning** model to predict future grocery store sales based on historical sales data. The system includes a **Streamlit** web application that allows users to upload a **test.csv** file, generate sales predictions using a trained **Random Forest Regressor** model, and download the results as a **submission.csv** file.
 
 ---
 
@@ -59,6 +58,7 @@ StoreSalesProject/
 ├── requirements.txt
 ├── stores.csv
 ├── oil.csv
+├── demo.mp4
 └── README.md
 ```
 
@@ -86,6 +86,12 @@ streamlit run app.py
 2. The application preprocesses the data.
 3. The trained model generates sales predictions.
 4. Download the generated **submission.csv**.
+
+---
+
+## 🎥 Demo
+
+A screen recording demonstrating how to run and use the application is included in this repository as **run.mp4**.
 
 ---
 
