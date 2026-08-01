@@ -58,7 +58,7 @@ StoreSalesProject/
 ├── requirements.txt
 ├── stores.csv
 ├── oil.csv
-├── demo.mp4
+├── run.mp4
 └── README.md
 ```
 
@@ -89,7 +89,7 @@ streamlit run app.py
 
 ---
 
-## 🎥 Demo
+## 🎥 demo
 
 A screen recording demonstrating how to run and use the application is included in this repository as **run.mp4**.
 
