@@ -107,10 +107,10 @@ A screen recording demonstrating how to run and use the application is included 
 ## 👨‍💻 Development Team
 
 - Hager
-- Mohamed Ashraf
-- Hanan
-- Abdelrahman
-- Mohamed Amr
+- (Mohamed Ashraf) @mody-55
+- Hanan Mohamed 
+- (Abdelrahman) bdelrhmnhrb336@gmail.com
+- Mohamed Amr @mohamed__amr2
 
 ---
 
