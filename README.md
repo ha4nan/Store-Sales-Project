@@ -106,15 +106,15 @@ A screen recording demonstrating how to run and use the application is included 
 
 ## 👨‍💻 Development Team
 
-- Hager
+- Hager Amr
 
-- (MohamedAshraf) https://github.com/mody-55
+- Mohamed Ashraf https://github.com/mody-55
 
-- Hanan Mohamed  
+- Hanan Mohamed  https://github.com/ha4nan
 
-- (Abdelrahman) bdelrhmnhrb336@gmail.com
+- Abdelrahman Nady  bdelrhmnhrb336@gmail.com
 
-- (Mohamed Amr) https://github.com/mohamed__amr2
+- Mohamed Amr https://github.com/mohamed__amr2
 
 ---
 
