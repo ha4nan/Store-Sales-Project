@@ -1,6 +1,8 @@
 # 🏪 Store Sales Prediction System
 
+
 ## 📌 Project Overview
+
 
 Accurate sales forecasting is essential for retail businesses to effectively manage inventory and meet customer demand. Poor predictions can result in overstock, product waste, or stock shortages that negatively impact revenue and customer satisfaction.
 
