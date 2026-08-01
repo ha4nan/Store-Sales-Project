@@ -4,7 +4,7 @@
 
 Accurate sales forecasting is essential for retail businesses to effectively manage inventory and meet customer demand. Poor predictions can result in overstock, product waste, or stock shortages, negatively impacting revenue and customer satisfaction.
 
-This project develops a **Machine Learning** model to predict future grocery store sales based on historical sales data. The system includes an interactive **Streamlit** web application that allows users to upload a `test.csv` file, generate sales predictions using a trained **Random Forest Regressor** and **Time Series** , and download the results as a `submission.csv` file.
+This project develops a **Machine Learning** model to predict future grocery store sales based on historical sales data. The system includes an interactive **Streamlit** web application that allows users to upload a `test.csv` file, generate sales predictions using a trained **Random Forest Regressor** and **Time- Series-data** , and download the results as a `submission.csv` file.
 
 ---
 
