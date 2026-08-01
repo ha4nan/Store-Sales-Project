@@ -108,11 +108,11 @@ A screen recording demonstrating how to run and use the application is included 
 
 - Hager
 
--(MohamedAshraf) https://github.com/mody-55
+- (MohamedAshraf) https://github.com/mody-55
 
--Hanan Mohamed 
--(Abdelrahman) bdelrhmnhrb336@gmail.com
--(Mohamed Amr) https://github.com/mohamed__amr2
+- Hanan Mohamed 
+- (Abdelrahman) bdelrhmnhrb336@gmail.com
+- (Mohamed Amr) https://github.com/mohamed__amr2
 
 ---
 
