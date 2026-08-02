@@ -106,7 +106,7 @@ A screen recording demonstrating how to run and use the application is included 
 
 ## 👨‍💻 Development Team
 
-- Hager Amr
+- Hager Amr 
 
 - Mohamed Ashraf https://github.com/mody-55
 
