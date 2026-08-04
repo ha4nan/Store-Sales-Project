@@ -27,7 +27,7 @@ This project develops a **Machine Learning** model to predict future grocery sto
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used   
 
 - Python
 - Pandas
